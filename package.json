@@ -1,0 +1,28 @@
+{
+  "name": "atomstaker-autojob",
+  "version": "1.0.0",
+  "description": "Automate AtomStaker tasks with an auto job tool, ensuring timely execution of tasks.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/indieboogie/atomstaker-autojob"
+  },
+  "author": "indieboogie",
+  "license": "MIT",
+  "dependencies": {
+    "atomstaker-notif": "1.0.0",
+    "atomstaker-autojob": "1.0.0",
+    "async": "1.0.0",
+    "web3-utils": "1.0.0",
+    "sequelize": "1.0.0",
+    "jsonwebtoken": "1.0.0",
+    "mocha": "1.0.0",
+    "react-redux": "1.0.0",
+    "redux": "1.0.0",
+    "body-parser": "1.0.0",
+    "passport": "1.0.0"
+  }
+}
